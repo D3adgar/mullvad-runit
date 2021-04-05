@@ -1,3 +1,4 @@
+# Maintainer: Deadgar <deadgar@protonmail.com>
 _basename=mullvad
 pkgname=${_basename}-runit
 pkgver=20210405
